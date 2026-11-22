@@ -24,7 +24,6 @@
    ```bash
    pip install -r requirements.txt
    ```
-   (Создайте файл requirements.txt в репозитории и впишите туда: requests, beautifulsoup4, pandas, openpyxl)
 3. Запустите скрипт:
    ```bash
    python scraper_portfolio.py
@@ -33,9 +32,6 @@
 📊 Результат работы
 
 Скрипт собирает данные с 5 страниц, фильтрует их и сохраняет в файл quotes_filtered.xlsx.
-
-ссылка_на_ваш_скриншот.png
-(Загрузите скриншот Excel в репозиторий и вставьте сюда ссылку на него)
 
 📌 Особенности реализации
 
